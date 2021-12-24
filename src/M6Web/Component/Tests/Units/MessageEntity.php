@@ -2,14 +2,13 @@
 
 namespace M6Web\Component\Statsd\Tests\Units;
 
+use atoum\atoum\test;
 use M6Web\Component\Statsd;
-use mageekguy\atoum
-;
 
 /**
  * test class for Statsd client
  */
-class MessageEntity extends atoum\test
+class MessageEntity extends test
 {
     /**
      * getter test
